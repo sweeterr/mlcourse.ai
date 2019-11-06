@@ -113,6 +113,7 @@ dmypy.json
 data/athlete_events.csv
 data/acllmdb
 data/aclImdb
+data/*
 
 # other shit
 .DS_Store
