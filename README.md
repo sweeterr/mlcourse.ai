@@ -7,7 +7,6 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Slack](https://img.shields.io/badge/slack-ods.ai-orange)](https://opendatascience.slack.com/archives/C91N8TL83/p1567408586359500)
 <<<<<<< HEAD
-[![Donate](https://img.shields.io/badge/support-ko--fi-red)](https://ko-fi.com/mlcourse_ai)
 
 =======
 [![Donate](https://img.shields.io/badge/support-patreon-red)](https://www.patreon.com/ods_mlcourse)
@@ -15,6 +14,16 @@
 
 
 >>>>>>> 27b0002497448a9ceb502c6b2cd87e80d4976e82
+=======
+[![Donate](https://img.shields.io/badge/support-patreon-red)](https://www.patreon.com/ods_mlcourse)
+[![Donate](https://img.shields.io/badge/support-ko--fi-red)](https://ko-fi.com/mlcourse_ai)
+
+
+=======
+[![Donate](https://img.shields.io/badge/support-ko--fi-red)](https://ko-fi.com/mlcourse_ai)
+
+>>>>>>> 90bf0400b0ee8ebde0e182ceb2fdbada72ccb352
+>>>>>>> 7d0bca53a1c6c6633aff88bbe9e222d0af1a0b67
 </div>
   
 The final session has launched on September 2, 2019. You can join at any point till the end of the session (November 22). Fill in [this form](https://docs.google.com/forms/d/10HAN5huM996snUKjsNYyT_oOlm2uOsTKulKurb3oiNM/) to participate, please explore the main page [mlcourse.ai](https://mlcourse.ai) as well.
@@ -53,27 +62,54 @@ Introduction, [video](https://www.youtube.com/watch?v=DrohHdQa8u8), [slides](htt
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+All deadlines are 20:59 GMT (London time), check out also [this Google calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+=======
+>>>>>>> 7d0bca53a1c6c6633aff88bbe9e222d0af1a0b67
+<<<<<<< HEAD
 All deadlines are 20:59 GMT+1 (London time), check out also [this Google calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 =======
 All deadlines are 20:59 CET (London time), check out also [this Google calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 >>>>>>> 4a2713e0cc37a6221a2777d4590567b35991fbdf
+<<<<<<< HEAD
 =======
 All deadlines are 20:59 GMT (London time), check out also [this Google calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 >>>>>>> 27b0002497448a9ceb502c6b2cd87e80d4976e82
+=======
+>>>>>>> 90bf0400b0ee8ebde0e182ceb2fdbada72ccb352
+>>>>>>> 7d0bca53a1c6c6633aff88bbe9e222d0af1a0b67
 
 1. Exploratory data analysis of Olympic games with Pandas, [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_fall2019/assignment1_pandas_olympic.ipynb). Deadline: September 15
 2. Trees, forests and boosting
   - Quiz 1. Trees and forests [nbviewer](https://bit.ly/2lLu3Qo). Deadline: September 27
   - Part 1. Classification and regression trees, [nbviewer](https://bit.ly/2m5hwHY). Deadline: October 6
   - Part 2. Beating a baseline in a Kaggle competition, [CatBoost starter](https://www.kaggle.com/kashnitsky/mlcourse-ai-fall-2019-catboost-starter). Deadline: October 6
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 90bf0400b0ee8ebde0e182ceb2fdbada72ccb352
+>>>>>>> 7d0bca53a1c6c6633aff88bbe9e222d0af1a0b67
 3. Linear classification and regression models
   - Quiz 2. Math behind linear models, [nbviewer](https://bit.ly/33cC9C3). Deadline: October 25
   - Part 1. User Identification with Logistic Regression, [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_fall2019/assignment3_part1_alice_logistic_regression.ipynb?flush_cache=true). Deadline: October 27
   - Part 2. Random Forest and Logistic Regression in credit scoring and movie reviews classification, [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_fall2019/assignment3_part2_rf_logit_scoring_texts.ipynb?flush_cache=true). Deadline: October 27
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7d0bca53a1c6c6633aff88bbe9e222d0af1a0b67
 4. Unsupervised learning and time series
  - Quiz 3. Unsupervised learning and time series, [nbviewer](https://bit.ly/2q1MTFq). Deadline: November 15
  - Assignment 4. Time series analysis, [nbviewer](https://bit.ly/36a4XgY). Deadline: November 17
  - Dota 2 winner prediction [competition](https://www.kaggle.com/c/mlcourse-dota2-win-prediction). Deadline for submissions: November 18
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> 4a2713e0cc37a6221a2777d4590567b35991fbdf
+>>>>>>> 90bf0400b0ee8ebde0e182ceb2fdbada72ccb352
+>>>>>>> 7d0bca53a1c6c6633aff88bbe9e222d0af1a0b67
 
 ### Demo assignments, just for practice
 The following are demo versions. Full versions are announced during course sessions.  
@@ -101,8 +137,16 @@ Discussions are held in the **#mlcourse_ai** channel of the [OpenDataScience (od
 *The course is free but you can support organizers by making a pledge on [Patreon](https://www.patreon.com/ods_mlcourse) (monthly support) or a one-time payment on [Ko-fi](https://ko-fi.com/mlcourse_ai). Thus you'll foster the spread of Machine Learning in the world!*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a href='ko-fi.com/mlcourse_ai' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 =======
 [![Donate](https://img.shields.io/badge/support-patreon-red)](https://www.patreon.com/ods_mlcourse)
 [![Donate](https://img.shields.io/badge/support-ko--fi-red)](https://ko-fi.com/mlcourse_ai)
 >>>>>>> 27b0002497448a9ceb502c6b2cd87e80d4976e82
+=======
+[![Donate](https://img.shields.io/badge/support-patreon-red)](https://www.patreon.com/ods_mlcourse)
+[![Donate](https://img.shields.io/badge/support-ko--fi-red)](https://ko-fi.com/mlcourse_ai)
+=======
+<a href='ko-fi.com/mlcourse_ai' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+>>>>>>> 90bf0400b0ee8ebde0e182ceb2fdbada72ccb352
+>>>>>>> 7d0bca53a1c6c6633aff88bbe9e222d0af1a0b67
